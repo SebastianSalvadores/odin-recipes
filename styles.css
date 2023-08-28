@@ -1,0 +1,38 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1, h2{
+    font-family: Tahoma, sans-serif;
+    font-size: 40px;
+    color: coral;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 32px;
+}
+
+
+ul li {
+    list-style: none;
+}
+
+ul li a {
+    text-decoration: none;
+    color: brown;
+    background-color: burlywood;
+    font-size: 23px;
+    font-family: 'Times New Roman', serif;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+p, li{
+    font-family: Garamond, sans-serif;
+    font-size: 18px;
+    color: darkslategray;
+}
